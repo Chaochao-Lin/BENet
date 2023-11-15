@@ -2,5 +2,6 @@
 
 MGFace is a bias expansion network for face forgery detection. The architecture is as follows.
 
+![fig2](https://github.com/Chaochao-Lin/BENet/blob/main/imgs/fig2.jpg)
 
 The complete code is currently under review and will be released soon
